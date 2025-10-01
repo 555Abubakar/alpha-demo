@@ -1,2 +1,2 @@
 # alpha-demo
-this is demo for git and github class
+This is a demo for git & github class
